@@ -1,0 +1,1 @@
+Here's a basic scraper that came in handy when I wanted a full roster of both current and previous Utah legislators listed on the state's website, a little lab experiment for a project at the Salt Lake Tribune.
